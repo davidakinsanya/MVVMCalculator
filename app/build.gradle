@@ -68,8 +68,8 @@ dependencies {
   def koin_version = "3.4.0"
   def billing_client = "6.0.1"
 
-  // One Tap Sign-In
-  implementation 'com.github.stevdza-san:OneTapCompose:1.0.3'
+  // Math expression evaluator
+  implementation 'com.notkamui.libs:keval:0.9.0'
 
   //Serialization
   implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:$serialization_version"
